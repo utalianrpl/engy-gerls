@@ -1,7 +1,41 @@
 // ================= DATA SISWA & EVENT =================
 const daftarSiswa = [
-    "Andi", "Budi", "Citra", "Dinda", "Eko", 
-    "Fajar", "Gita", "Hana", "Indra", "Joko"
+    "Adler Stradlin J.A",
+    "Agusti Dwi Ramadhan",
+    "Ahyaar Qolbun Salim",
+    "Andrea Ramadhani",
+    "Arkhan Rizky Pratama",
+    "Aulia Zahrani",
+    "Azzam Meidi Akbar",
+    "Danendra Sangkara Nayottama",
+    "Davin Andika Muharram",
+    "Faiz Al-Abrar Rabbany",
+    "Fajar Robi'ul Awal",
+    "Fathima Putri Mutiaramadhani",
+    "Fathiridris Kasyafani Movic",
+    "Fauzi Fadhilah",
+    "Ghina Asyha Yasmine",
+    "Gilang Travis Pratama",
+    "Hammada Noury M.",
+    "Jamie Caesar H.",
+    "Litania Syafitri",
+    "Milian Aisya Ridwan",
+    "M Farhan Wahyudi",
+    "M Reza Ramadhan",
+    "Puti Wulandari",
+    "Nuri Suci Giadizia",
+    "Putra Febriansyah",
+    "Putra Ramadhan",
+    "Rio Maulana",
+    "Rifki Fajar Saputra",
+    "Rizki Azka Raharjo",
+    "Ruri Himmatul Mudrikah",
+    "Sabrina Harfi Arabella",
+    "Sahrul Ramadhan",
+    "Thrystan Syach F.",
+    "Utara Putra Brilliant",
+    "Valerie Zouvan Al Baasith",
+    "Yusuf Abdul Rosyid"
 ];
 
 const daftarEvent = [
@@ -52,7 +86,6 @@ function updateDropdownKeterangan() {
 
 // ================= LOGIN & USER ROLE MANAGEMENT =================
 
-// LANGSUNG MENAMPILKAN LOGIN SETIAP REFRESH / BUKA HALAMAN
 function cekStatusLogin() {
     tampilkanLogin();
 }
