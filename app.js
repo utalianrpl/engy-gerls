@@ -40,7 +40,7 @@ const daftarSiswa = [
 
 const daftarEvent = [
     "Beli konsumsi", "Acara kelas", "Study tour", 
-    "Dekorasi kelas", "Fotokopi", "Lainnya"
+    "Dekorasi kelas", "Fotokopi", "kebersihan kelas", "Tugas", "Lainnya"
 ];
 
 let currentUserRole = "viewer";
